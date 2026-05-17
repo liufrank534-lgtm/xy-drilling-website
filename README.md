@@ -1,0 +1,1 @@
+Upload to GitHub, then import into Vercel and click Deploy.
